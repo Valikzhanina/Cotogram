@@ -1,0 +1,17 @@
+.header {
+  grid-area: h;
+  background-color: rgb(35, 73, 153);
+  display: flex;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: 2px solid white;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+.title {
+  color: azure;
+  margin-left: 5px;
+}

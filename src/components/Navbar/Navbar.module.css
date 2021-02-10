@@ -1,0 +1,15 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(35, 73, 153);
+}
+.item {
+  color: white;
+  text-align: center;
+  padding: 12px;
+}
+.item.active {
+  color: rgb(43, 226, 226);
+}
+.item:hover {
+  background-color: rgb(53, 102, 206);
+}
